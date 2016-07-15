@@ -9,7 +9,7 @@
       "ejs": "*"
   },
   "engine": {
-    "node": "*",
+    "node": "4.4.x",
     "npm": "*"
   },
   "scripts": {
